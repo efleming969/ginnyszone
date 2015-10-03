@@ -1,0 +1,16 @@
+{ "name": "ginnyszone"
+, "version": "1.0.0"
+, "description": "ginnyszone.com"
+, "main": "index.js"
+, "scripts":
+  { "test": "echo \"Error: no test specified\" && exit 1"
+  }
+, "repository":
+  { "type": "git"
+  , "url": "git+https://github.com/efleming969/ginnyszone.git"
+  }
+, "author": ""
+, "license": "ISC"
+, "homepage": "https://github.com/efleming969/ginnyszone#readme"
+}
+
