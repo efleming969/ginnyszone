@@ -1,0 +1,5 @@
+#!/bin/bash
+
+aws s3 sync static s3://www.ginnyszone.com/ \
+  --acl public-read
+
