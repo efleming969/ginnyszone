@@ -442,10 +442,10 @@ h6 {
    NAVIGATION
    ========================================================================== */
 nav {
-  background: #143259;
+  background: #00acef;
 }
 .nav-link {
-  color: #e7e7e7;
+  color: #000;
 }
 .nav-link:active,
 .nav-link:hover,
@@ -457,7 +457,7 @@ nav {
    HEADER
    ========================================================================== */
 .header {
-  background-color: #fcdef0;
+  background-color: #ec008b;
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: 100% auto;
@@ -505,6 +505,7 @@ nav {
   background: #fff;
   border-radius: 4px;
 }
+
 /* =============================================================================
    LOCATION
    ========================================================================== */
@@ -645,3 +646,13 @@ nav {
   }
 }
 
+/* =============================================================================
+    Misc 
+   ========================================================================== */
+
+.mission {
+  color: #fff;
+  padding-top: 20px;
+  font-weight: bold;
+  font-size: large;
+}
